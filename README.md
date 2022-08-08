@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bkkothari2255/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/bkkothari2255/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:bkkothari2255@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Webmail](https://img.shields.io/badge/%20-Web%20Mail-black?color=141700&labelColor=ef5150&logo=gmail&logoColor=ffffff)](http://webmail.bkkothari2255.tech/)
 ## Programming Languages
 
