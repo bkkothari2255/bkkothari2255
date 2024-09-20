@@ -30,12 +30,12 @@ Python, C/C++, Java
 About me:
 
 
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on Python
+- 🌱 I’m currently learning Tensorflow on Coursera
+- 👯 I’m looking to collaborate on Python/Django
 - 🤔 I’m looking for help with Payment Integration.
 - 💬 Ask me about Python / Java / C / Django.
-- 📫 How to reach me: Connect on Linkedin / Mail me
-- ⚡ Fun fact: Sometime you have to remember who you were to figure out who you want to be.
+- 📫 How to reach me: Connect on Linkedin
+- ⚡ Fun fact: Sometime you have to remember who you were to figure out who you want to be
 
 
 <a href="">
