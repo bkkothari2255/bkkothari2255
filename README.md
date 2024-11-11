@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 # Bhavik Kothari 👋
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bkkothari2255/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/bkkothari2255/)
 [![Webmail](https://img.shields.io/badge/%20-Web%20Mail-black?color=141700&labelColor=ef5150&logo=gmail&logoColor=ffffff)](http://webmail.bkkothari2255.tech/)
 
 [![HitCount](https://hits.dwyl.com/bkkothari2255/bkkothari2255.svg?style=flat)](http://hits.dwyl.com/bkkothari2255/bkkothari2255)
