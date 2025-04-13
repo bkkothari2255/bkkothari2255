@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Programming Languages
 
 ```
-Python, C/C++, Java
+Python, C/C++, Java, Javascript
 ```
 
 About me:
