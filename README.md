@@ -1,32 +1,58 @@
 # Hi there, I'm Bhavik Kothari 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Software+Engineer;Passionate+about+Python+%26+Django;Exploring+AI+with+TensorFlow;Building+scalable+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;AEM+Cloud+Architect;Java+%26+OSGi+Specialist;Building+Scalable+Headless+Solutions" alt="Typing SVG" />
 </p>
 
-I'm a dedicated Software Engineer with a strong foundation in Java & Adobe Experience Manager also I have handson with Python, Django, and full-stack development. With a passion for building scalable web applications and integrating AI solutions, I'm currently diving deep into Machine Learning & TensorFlow and exploring Front End Technologies. I love collaborating on innovative projects and continuously learning to stay at the forefront of technology. Let's connect to create something impactful!
+I'm a **Senior Associate Software Engineer** with **4+ years of experience** building scalable, enterprise-grade solutions. My core expertise lies in **Adobe Experience Manager (AEMaaCS)**, **Java**, and **Cloud Migration**. I specialize in architecting headless content delivery systems, automating large-scale migrations, and integrating complex enterprise APIs.
+
+While my professional focus is on Backend Engineering and AEM, I have a strong background in **AI/ML** and **Full Stack Development** (React, Python), constantly exploring new ways to blend content strategy with modern tech.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-| **Languages** | **Frameworks & Libraries** | **Databases & Tools** | **DevOps** |
-|---------------|----------------------------|-----------------------|-----------|
-| Python, Java, C/C++ | Sling, Django, Electron | Sql, MongoDB | Git, Docker, CI/CD, Agile |
-| JavaScript, HTML, CSS | React.js, Node.js | AEM 6.5 & AEMaaCS | Jenkins, TDD |
+| **Domain** | **Technologies** |
+|:---:|:---|
+| **Languages** | Java, Python, JavaScript, TypeScript, SQL, Bash |
+| **AEM & Backend** | AEM 6.5, AEM as a Cloud Service, Sling Models, OSGi, JCR (Jackrabbit), Apache Felix, Servlets, Groovy Scripting |
+| **Frontend** | React.js, Redux, HTML5, CSS3, Material UI, AEM SPA Editor |
+| **DevOps & Cloud** | Azure AD (Entra ID), AWS, Google Cloud Platform (GCP), Docker, Jenkins, Cloud Manager, CI/CD |
+| **Testing & Quality** | JUnit, Postman, Cypress, WebDriverIO, SonarQube |
+
+---
+
+## 🌐 Featured Projects
+
+### 1. **Ford Pro - Enterprise AEM Cloud Platform**
+*Senior Associate Software Engineer*
+A headless Content-as-a-Service (CaaS) solution serving authenticated content to micro-frontends across global markets.
+- **Architecture:** Built RESTful JSON APIs using Sling Models & OSGi services to support a robust headless architecture.
+- **Cloud Migration:** Spearheaded the migration to **AEM as a Cloud Service**, including code refactoring and pipeline readiness.
+- **Automation:** Developed custom OSGi workflows reducing content migration effort by **~80%**.
+- **Security:** Migrated authentication flows to **Microsoft Entra ID (Azure AD)** and implemented permission-sensitive caching.
+
+### 2. **SmartVision - AI Security Platform**
+*Co-Founder & Computer Vision Engineer (SSIP Grant Funded)*
+An AI-powered security and identification platform designed to detect real-time threats and automate attendance.
+- **Tech Stack:** Python, Computer Vision, Machine Learning, AWS Cloud.
+- **Impact:** Built prototypes for object detection (weapons) and automated facial recognition for attendance systems.
+- **Recognition:** Secured funding under the SSIP Grant (Phase-I) for prototype development.
+
+[Live Demo](https://fordpro.com) | [Portfolio](https://bkkothari2255.tech)
 
 ---
 
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bkkothari2255&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkkothari2255&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bkkothari2255&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkkothari2255&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
 </div>
 
 ### 💻 GitHub Streak
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bkkothari2255&theme=radical" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=bkkothari2255&theme=radical" alt="Streak Stats" />
 </div>
 
 ---
@@ -38,40 +64,23 @@ I'm a dedicated Software Engineer with a strong foundation in Java & Adobe Exper
 
 ---
 
-## 🌐 Featured Projects
-
-### 1. **Ford Pro - AEM CMS** (Headless)
-- A robust content managment system solution built with AEM and React for serving content for 18-22 global markets integrated with Akamai CDN.
-- Features: Content as Json Service using content fragments & Experince Framents, AEM Components & Sling models, Sling Servlets & OSGIServices
-- Custom Features : Permission Sensitive Caching with Personalization (AEM), Content Migration Services, Integration to legacy systems to retrive documents & Authentication services
-
-  [Live Demo](https://fordpro.com)
-
----
-
 ## 📊 Visitor Count
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=bkkothari2255.bkkothari2255&left_color=0ea5e9&right_color=0ea5e9&left_text=Visitors&right_text=%3C%20%20%20%20%3E)
-
----
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbkkothari2255%2Fbkkothari2255&count_bg=%230EA5E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ---
 
 ## 🤝 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/bkkothari2255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!--- <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://bkkothari2255.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
-</p> -->
+</p>
 
-**🌱 Currently Learning**: Electron & React Js
+**🌱 Currently Learning**: Advanced AEM Cloud Architecture & Modern Java (Streams/Lambdas)
 
-**👯 Looking to Collaborate**: On Javascript & Node Applications 
+**👯 Looking to Collaborate**: On AEM Open Source Tooling & React-based Micro-frontends
 
-**🤔 Seeking Help**: With optimizing React application for scalability.  
+**💬 Ask Me About**: AEM (Sites/Assets), OSGi, Java, Cloud Security, & Python.
 
-**💬 Ask Me About**: AEM , Java, Python, C/C++.
-
-**📍 Work at [ FBS India, Chennai], Open to connect and participation for dev events.**
+**📍 Work at**: Ford Pro (Chennai)
 
 ---
 
@@ -85,7 +94,4 @@ Sometimes you have to remember who you were to figure out who you want to be. Al
   <p><i>Thanks for visiting! Star this repo if you found it helpful. ⭐</i></p>
 </div>
 
----
-
-*Last updated: October 2025*  
-*Built with ❤️ using GitHub's latest markdown features and dynamic widgets.*
+*Last updated: January 2026*
