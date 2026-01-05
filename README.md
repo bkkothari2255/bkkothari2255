@@ -64,11 +64,6 @@ An AI-powered security and identification platform designed to detect real-time 
 
 ---
 
-## 📊 Visitor Count
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbkkothari2255%2Fbkkothari2255&count_bg=%230EA5E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
----
-
 ## 🤝 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/bkkothari2255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
