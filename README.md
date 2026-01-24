@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;AEM+Cloud+Architect;Java+%26+Sling+Specialist;Building+Scalable+Headless+Solutions" alt="Typing SVG" />
 </p>
 
-I'm a **Senior Software Engineer** with **4+ years of experience** building scalable, enterprise-grade solutions. My core expertise lies in **Adobe Experience Manager (AEMaaCS)**, **Java**, and **Cloud Migration**. I specialize in architecting headless content delivery systems, automating large-scale migrations, and integrating complex enterprise APIs.
+I'm a **Senior Software Engineer** with **5+ years of experience** building scalable, enterprise-grade solutions. My core expertise lies in **Adobe Experience Manager (AEMaaCS)**, **Java**, and **Cloud Migration**. I specialize in architecting headless content delivery systems, automating large-scale migrations, and integrating complex enterprise APIs.
 
 While my professional focus is on Backend Engineering and AEM, I have a strong background in **AI/ML** and **Full Stack Development** (React, Python), constantly exploring new ways to blend content strategy with modern tech.
 
