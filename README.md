@@ -73,14 +73,32 @@ An AI-powered security and identification platform designed to detect real-time 
 
 **👯 Looking to Collaborate**: On AEM Open Source Tooling & React-based Micro-frontends
 
-**💬 Ask Me About**: AEM (Sites/Assets), OSGi, Java, Cloud Security, & Python.
+**💬 Ask Me About**: AEM (Sites/Assets), Sling, OSGi, Java, AEM Cloud, React & Python, System Design.
 
 **📍 Work at**: Ford Pro (Chennai)
 
 ---
 
 ## ⚡ Fun Fact
-Sometimes you have to remember who you were to figure out who you want to be. Also, I once spent hours debugging a Django app only to realize it was a typo in a config file! 😅
+<!-- Sometimes you have to remember who you were to figure out who you want to be. -->
+
+<!-- Once upon time wisedev said 1 error is easy to diagnose then 1000 warnings; 
+logs are meant to debug.. so keep it clean -->
+
+
+Time rewrites every tech stack.
+We just call it
+“the next release.”
+— Bhavik
+
+What do maintainers do?
+They stop everyone else
+from breaking the *`main`* branch.
+— Bhavik
+
+<!-- Time rewrites tech stacks realeased with new generation time adapts the way and still it keep rewriting itself every moment it lives... - Bhavik
+
+Tech Stacks are scary at first only if you looked with lenses use all the algorithms to create one to disect in detail it reaveals obvious flaws...- Bhavik -->
 
 ---
 
