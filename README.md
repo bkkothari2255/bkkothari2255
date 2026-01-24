@@ -18,7 +18,7 @@ While my professional focus is on Backend Engineering and AEM, I have a strong b
 | **AEM & Backend** | AEM 6.5, AEM as a Cloud Service, Sling Models, OSGi, JCR (Jackrabbit), Apache Felix, Servlets, Groovy Scripting |
 | **Frontend** | React.js, Redux, HTML5, CSS3, Material UI, AEM SPA Editor |
 | **DevOps & Cloud** | Azure AD (Entra ID), AWS, Google Cloud Platform (GCP), Docker, Jenkins, Cloud Manager, CI/CD |
-| **Testing & Quality** | JUnit, Postman, Cypress, WebDriverIO, SonarQube |
+| **Testing & Quality** | JUnit, Postman, SonarQube |
 
 ---
 
