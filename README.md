@@ -46,7 +46,11 @@ An AI-powered security and identification platform designed to detect real-time 
 ## 🔥 GitHub Stats
 
 <div align="center">
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=bkkothari2255&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bkkothari2255&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkkothari2255&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
 </div>
 
@@ -88,7 +92,7 @@ logs are meant to debug.. so keep it clean -->
 
 Time rewrites every tech stack.
 We just call it
-“the next release.”
+“the next `release`.”
 — Bhavik
 
 What do maintainers do?
