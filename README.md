@@ -20,6 +20,11 @@ While my professional focus is on Backend Engineering and AEM, I have a strong b
 | **DevOps & Cloud** | Azure AD (Entra ID), Google Cloud Platform (GCP), Docker, Jenkins, AEM Cloud Manager, CI/CD |
 | **Testing & Quality** | JUnit, Mockito, Postman, SonarQube |
 
+## 🏅 My Certifications & Badges
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ---
 
 ## 🌐 Featured Projects
