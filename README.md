@@ -69,6 +69,7 @@ While my professional focus is on Backend Engineering and AEM, I have a strong b
     <img src="https://images.credly.com/size/80x80/images/a45d86ae-3f80-443b-9ebe-1f42cad8956e/38f2184b-6ece-11f1-9e60-42010a400fe7_badge_cached_image_20260623-32-pau0fl.png" width="85" height="85" alt="Adobe AEM Cloud Service Migration" />
   </a>
 </p>
+
 ---
 
 ## 🌐 Featured Projects
