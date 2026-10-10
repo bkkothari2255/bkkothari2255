@@ -22,7 +22,7 @@ While my professional focus is on Backend Engineering and AEM, I have a strong b
 
 ## 🏅 My Certifications & Badges
 
-<!--START_SECTION:badges-->
+<!-- CREDLY-BADGE:START -->
 [![Deep Learning Specialization](https://images.credly.com/size/80x80/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png)](https://www.credly.com/badges/64f65fda-160b-4ecf-9773-bdca15963ad7)
 [![Open Source Software Development, Linux and Git Specialization](https://images.credly.com/size/80x80/images/a8e890b4-d484-4e04-b521-fba516a8c3cd/coursera-specialization-badge.png)](https://www.credly.com/badges/df2dbe47-5a19-4dfb-9d66-9ba0f84ea627)
 [![Meta Back-End Developer Certificate](https://images.credly.com/size/80x80/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png)](https://www.credly.com/badges/d320b1d7-ed93-4831-92d9-4ed896b313ce)
@@ -38,8 +38,7 @@ While my professional focus is on Backend Engineering and AEM, I have a strong b
 [![Adobe Certified Expert - Adobe Experience Manager Sites Developer](https://images.credly.com/size/80x80/images/6cfb6a0d-8bb0-44b3-8515-c506045ac20d/38faa2b0-6ece-11f1-9e60-42010a400fe7_badge_cached_image_20260723-33-9zjyhz.png)](https://www.credly.com/users/bkkothari2255/badges)
 [![Adobe Certified Professional - Adobe Experience Manager Assets Developer](https://images.credly.com/size/80x80/images/89688475-1b4b-41f9-b3ed-f77851367e72/390ee87f-6ece-11f1-9e60-42010a400fe7_badge_cached_image_20260723-35-ip08bj.png)](https://www.credly.com/users/bkkothari2255/badges)
 [![Adobe Certified Expert - Adobe Experience Manager as a Cloud Service Migration](https://images.credly.com/size/80x80/images/a45d86ae-3f80-443b-9ebe-1f42cad8956e/38f2184b-6ece-11f1-9e60-42010a400fe7_badge_cached_image_20260623-32-pau0fl.png)](https://www.credly.com/users/bkkothari2255/badges)
-<!--END_SECTION:badges-->
-
+<!-- CREDLY-BADGE:END -->
 ---
 
 ## 🌐 Featured Projects
